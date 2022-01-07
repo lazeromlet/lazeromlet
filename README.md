@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @lazeromlet (Gabe Gunnink)
-  -- GVSU Fall '21
+  -- GVSU Winter '21
 - 👀 I’m interested in snowboarding, growing, and lifting
-- 🌱 I’m currently in my last year of college
+- 🌱 I’m currently working for a concrete and precast walls company as their new computer programmer.
+- 🌱 Currently learning vb.NET for the first time.
 
 <!---
 lazeromlet/lazeromlet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
